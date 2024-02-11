@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Seyran Dovletov</h1>
-<h3 align="center">A backend developer</h3>
+<h3 align="center">A backend and AI developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dovletov-seyran&label=Profile%20views&color=0e75b6&style=flat" alt="dovletov-seyran" /> </p>
 
-- 🔭 I’m currently working on **Online shop**
+- 🔭 I’m currently working on **Robot**
 
-- 🌱 I’m currently learning **HTML/CSS and JavaScript**
+- 🌱 I’m currently learning **Arduino and AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dovletov-Seyran](https://github.com/Dovletov-Seyran)
 
-- 💬 Ask me about **Python, C#, Django**
+- 💬 Ask me about **Python, C#, Django, C++**
 
 - 📫 How to reach me **dovletovsejran7@gmail.com**
 
